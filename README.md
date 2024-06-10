@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/813064699.svg)](https://zenodo.org/doi/10.5281/zenodo.11549707)
+
 # Identifying the threshold to sustainable ridepooling
 
 This contains supplementary data to reproduce the figures in the article **Identifying the threshold to sustainable ridepooling** by Charlotte Lotze, Philip Marszal, and Felix Jung, Debsankha Manik, Marc Timme, and Malte Schröder.
