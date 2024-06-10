@@ -12,3 +12,5 @@ pd.read_csv("data/fig_2a.csv")
 ```
 
 or any text editor.
+
+If you have any questions, contact Felix Jung at [felix.jung@tu-dresden.de](mailto:felix.jung@tu-dresden.de).
